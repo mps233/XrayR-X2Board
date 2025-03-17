@@ -3,9 +3,9 @@ Log:
   AccessPath: 
   ErrorPath: 
 DnsConfigPath: 
-RouteConfigPath: /etc/XrayR/route.json
+RouteConfigPath:
 InboundConfigPath:
-OutboundConfigPath: /etc/XrayR/custom_outbound.json
+OutboundConfigPath:
 ConnectionConfig:
   Handshake: 4 
   ConnIdle: 10
